@@ -37,8 +37,19 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## Projects
 Here are some of the projects I've worked on:
 
-### [Project 1](https://github.com/AbhikarshRaj/project1)
-A brief description of what this project does and its purpose.
+### [AI Snake Game](https://github.com/AbhikarshRaj/AI_snake_game)
+**Description:** Used AI and ML models to train a Snake game to achieve high scores. This project explores the intersection of artificial intelligence and gaming using reinforcement learning techniques, specifically Deep Q Learning (DQN). The AI agent learns to play the Snake game autonomously by navigating a grid, consuming food items, and avoiding collisions, all while maximizing cumulative rewards over time.
+
+**Highlights:**
+- Leveraged reinforcement learning, a trial-and-error-based training method, where the agent interacts with the environment and receives feedback through rewards or penalties.
+- Utilized Deep Q Learning, integrating Q-Learning with neural networks to handle complex, high-dimensional state spaces efficiently.
+- The model iteratively explored various actions to strike a balance between exploration and exploitation, ultimately mastering the game.
+
+**Technologies Used:**
+- Reinforcement Learning concepts: agent, environment, state, action, reward, and policy.
+- Deep Neural Networks for approximating the Q-function.
+
+**Goal:** Showcase reinforcement learning's capabilities in gaming and explore its real-world applications in unpredictable, dynamic environments.
 
 ### [Project 2](https://github.com/AbhikarshRaj/project2)
 A brief description of what this project does and its purpose.
@@ -62,4 +73,4 @@ A brief description of what this project does and its purpose.
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on something exciting.....
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on something exciting.
