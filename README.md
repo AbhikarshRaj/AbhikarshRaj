@@ -62,4 +62,4 @@ A brief description of what this project does and its purpose.
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on something exciting.
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on something exciting.....
