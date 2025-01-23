@@ -74,13 +74,13 @@
   - **Libraries**: TensorFlow, Keras, scikit-image, NumPy, Pandas, SciPy  
 
 - **Installation & Usage**:  
-git clone https://github.com/yourusername/missing-person-detection.git
-cd missing-person-detection
-pip install -r requirements.txt
-python app.py
-Run the Flask application and access it via http://127.0.0.1:5000/
-Upload a CCTV video and the missing person's image
-The system will detect and save matching frames in the output/ folder.
+  - git clone https://github.com/yourusername/missing-person-detection.git
+  - cd missing-person-detection
+  - pip install -r requirements.txt
+  - python app.py
+  - Run the Flask application and access it via http://127.0.0.1:5000/
+  - Upload a CCTV video and the missing person's image
+  - The system will detect and save matching frames in the output/ folder.
 
 
 📊 GitHub Stats
