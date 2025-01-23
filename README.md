@@ -73,22 +73,6 @@
   - **Computer Vision Models**: OpenCV, MTCNN, Facenet  
   - **Libraries**: TensorFlow, Keras, scikit-image, NumPy, Pandas, SciPy  
 
-- **Folder Structure**:  
-├── input/ # Directory for uploading CCTV video files
-├── input_1/ # Directory for uploading the image of the missing person
-├── backend/ # Contains all models and algorithms
-├── facenet_model/ # Pre-trained Facenet model for face recognition
-├── mtcnn_model/ # Pre-trained MTCNN model for face detection
-│ └── utils.py # Helper functions for image preprocessing, face extraction, etc.
-├── output/ # Directory where output images and matching frames are saved
-├── app.py # Flask application for running the project
-├── requirements.txt # List of Python dependencies
-└── README.md # Project documentation
-
-bash
-Copy
-Edit
-
 - **Installation & Usage**:  
 git clone https://github.com/yourusername/missing-person-detection.git
 cd missing-person-detection
