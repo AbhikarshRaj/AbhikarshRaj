@@ -87,9 +87,14 @@ The system will detect and save matching frames in the output/ folder.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhikarshRaj&show_icons=true&theme=radical" alt="GitHub Stats"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhikarshRaj&layout=compact&theme=radical" alt="Top Languages"> </p>
 
 
-🌐 Get In Touch
-📧 Email: raj.abhikarsh211@gmail.com
-💼 LinkedIn: Abhikarsh Raj
-🐦 Twitter: @AbhikarshRaj
-<p align="center"> <img src="https://media.giphy.com/media/jt7bAtEijhurmWAr4v/giphy.gif" width="50"> Thanks for stopping by! Let's create something amazing together. </p> ```
-Let me know if you want any further modifications! 🚀
+### 🌐 Get In Touch
+- 📧 Email: [raj.abhikarsh211@gmail.com](mailto:raj.abhikarsh211@gmail.com)
+- 💼 LinkedIn: [Abhikarsh Raj](https://www.linkedin.com/in/abhikarshraj)
+- 🐦 Twitter: [@AbhikarshRaj](https://twitter.com/AbhikarshRaj)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jt7bAtEijhurmWAr4v/giphy.gif" width="50">
+  Thanks for stopping by! Let's create something amazing together.
+</p>
